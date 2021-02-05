@@ -7,3 +7,5 @@ Scrapping on [k12 shooting table in wikipedia](https://en.wikipedia.org/wiki/Lis
  - Data clean
  
  - saved in prosessed_data.csv 
+ 
+ ![img](resource/visualization.png)
