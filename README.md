@@ -5,3 +5,5 @@ Scrapping on [k12 shooting table](https://en.wikipedia.org/wiki/List_of_school_s
  - Adding geographical info Longitude and Latittude
  
  - Data clean
+ 
+ - saved in prosessed_data.csv 
